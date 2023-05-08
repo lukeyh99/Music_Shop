@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/trumpetsound.mp3-86033a368c0badea5bbb203afca42f51.mp3str"
+
+[deps]
+
+source_file="res://Audio/trumpetsound.mp3"
+dest_files=[ "res://.import/trumpetsound.mp3-86033a368c0badea5bbb203afca42f51.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0

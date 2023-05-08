@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/violin.mp3-14b190ad1d886e09c8f2caeb21782b0f.mp3str"
+
+[deps]
+
+source_file="res://Audio/violin.mp3"
+dest_files=[ "res://.import/violin.mp3-14b190ad1d886e09c8f2caeb21782b0f.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0

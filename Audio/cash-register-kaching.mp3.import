@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/cash-register-kaching.mp3-1c6020d99b20d31ded79f2f58f71dbf9.mp3str"
+
+[deps]
+
+source_file="res://Audio/cash-register-kaching.mp3"
+dest_files=[ "res://.import/cash-register-kaching.mp3-1c6020d99b20d31ded79f2f58f71dbf9.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0

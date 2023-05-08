@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/flutesound.mp3-57a6fb8d8755836598bf729665e9d298.mp3str"
+
+[deps]
+
+source_file="res://Audio/flutesound.mp3"
+dest_files=[ "res://.import/flutesound.mp3-57a6fb8d8755836598bf729665e9d298.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0
